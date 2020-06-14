@@ -5,7 +5,7 @@ import Prayers from './prayers';
 function App() {
   return ( <div className="App">
     <header className="App-header">
-      <h1> Assalam O Alaikum..! </h1>
+      <h1> Assalam O Alaikum...! </h1>
       <Prayers prayerName="Ameen" prayerName1="ALLHAMDULILLAH"/>
 
       {/* <Prayers></Prayers> */}
