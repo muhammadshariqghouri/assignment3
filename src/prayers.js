@@ -4,7 +4,7 @@ function Prayers (props){
     return ( 
         <div>
         <h1> I am {props.name}</h1>
-        <p> "This is my 3rd Assignment" </p>
+        <h2> "This is my 3rd Assignment" </h2>
 
         <hr/>
         
