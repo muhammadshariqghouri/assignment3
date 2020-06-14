@@ -7,7 +7,8 @@ function App() {
     <header className="App-header">
       <h1> Assalam O Alaikum...! </h1>
       <Prayers name="Muhammad Shariq Bilal Ghori"/>
-      <Prayers prayerName="Ameen" prayerName1="ALLHAMDULILLAH"/>
+      <Prayers prayerName="Ameen"/>
+      <Prayers prayerName1="ALLHAMDULILLAH"/>
 
       {/* <Prayers></Prayers> */}
 
