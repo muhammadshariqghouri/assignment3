@@ -17,10 +17,3 @@ function App() {
 }
 
 export default App;
-
-var student = {
-  name: 'Shariq',
-  course: 'Bootcamp2020'
-
-}
-
