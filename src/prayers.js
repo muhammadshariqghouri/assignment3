@@ -5,6 +5,9 @@ function Prayers (props){
         <div>
         <h1> I am {props.name}</h1>
         <p> "This is my 3rd Assignment" </p>
+
+        <hr/>
+        
         <h1> May Allah Blessed You..! {props.prayerName} </h1>
 
         <hr/>
