@@ -6,7 +6,7 @@ function App() {
   return ( <div className="App">
     <header className="App-header">
       <h1> Assalam O Alaikum...! </h1>
-      <Prayers name="Muhammad Shariq Bilal Ghori"
+      <Prayers name="Muhammad Shariq Bilal Ghori"/>
       <Prayers prayerName="Ameen" prayerName1="ALLHAMDULILLAH"/>
 
       {/* <Prayers></Prayers> */}
